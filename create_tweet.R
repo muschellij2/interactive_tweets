@@ -65,7 +65,7 @@ make_interactive_card = function(slug, plot, site, ...) {
 }
 
 
-site = "http://johnmuschelli.com/interactive_tweets"
+site = "https://johnmuschelli.com/interactive_tweets"
 slug = "test"
 title = "Iris Flowers Interactive"
 
