@@ -1,0 +1,18 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+# interactive_tweets
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+The goal of interactive_tweets is to try out the workflow in https://datatitian.com/how-to-turn-your-ggplot2-visualization-into-an-interactive-tweet/ to make interactive tweets.  Trying to use from GitHub pages vs. Wordpress.
